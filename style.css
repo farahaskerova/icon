@@ -1,0 +1,26 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+li{
+    list-style-type: none;
+    margin-left: 0;
+}
+i {
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid pink;
+    padding: 5px;
+    box-shadow: 0px 0px 5px #888;
+}
+.facebook{
+    color: pink;
+}
+.instagram{
+    color: pink;
+    background-color: rgb(255, 181, 251);
+}
+.icon:hover {
+    display: flex;
+    flex-direction: row;
+}
